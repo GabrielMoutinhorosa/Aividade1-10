@@ -1,3 +1,5 @@
+package org.example.ATV01;
+
 public class Robo {
     String nome;
     int energia = 100;

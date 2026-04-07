@@ -1,3 +1,5 @@
+package org.example.ATV01;
+
 import java.util.Scanner;
 
 public class MainRobo {
